@@ -1,6 +1,6 @@
 name = "libcrossterm_jll"
 uuid = "7fdd842c-1c35-5047-b6c4-5b8c94d478bc"
-version = "0.6.1+0"
+version = "0.6.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
