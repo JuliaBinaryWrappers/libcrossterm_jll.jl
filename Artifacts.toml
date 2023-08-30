@@ -1,88 +1,88 @@
 [[libcrossterm]]
 arch = "aarch64"
-git-tree-sha1 = "ed6d5b19b663ddfffb0595b61437ca3be713af80"
+git-tree-sha1 = "261e958344fdd4f652a2e1be8e0b8debf6a1fb23"
 os = "macos"
 
     [[libcrossterm.download]]
-    sha256 = "22135519256c3af20002bfed824e48ca037c70f8e0c3e2f160a674af790f3c2b"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "c7b9cb1d93d641a46510997bb39a0a21be96249b76001d5092b55004184c86af"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.aarch64-apple-darwin.tar.gz"
 [[libcrossterm]]
 arch = "aarch64"
-git-tree-sha1 = "d23679b331a1b952ddda682972713d7b876753e8"
+git-tree-sha1 = "d210e2eec6f60a4e2a7e188a3d0242e78c73451a"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "9af846933d60bf69566dfba0ed9f79c601a1ddb31f8eb3d10b44d8d50bb80fbb"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "ee1c3366747e912b3e14950ec12065f70f053ea9cb8a04f9d9bd039c4908ab35"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.aarch64-linux-gnu.tar.gz"
 [[libcrossterm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1f5b6bc61ef77c6597d6386057c5cb19065b6615"
+git-tree-sha1 = "73e851457e050ea055456dff353877d3350f9afe"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "efd4109e6d7ba94a9a2668fd2576fe8016d0d19734c5c02469279308db8ddc34"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "b159c267b8b8d1da8093fa56d9d63c48a0fdb6ee27ba97f465cd302ab7778747"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.armv6l-linux-gnueabihf.tar.gz"
 [[libcrossterm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2994133f195acb635e822fdeaae77aef0d33e9be"
+git-tree-sha1 = "8ab329f27e96a8fc01b5eef11bbbb3e2f69feaf1"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "cfb2fe6b28615a3d4cb5df20f1cb798aa6d5094abf577053fe95b90d695caf0a"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "71ed0cfa55d07ee3f7681086faf8bf5ac8ac98ad0c52c059c78180dcd185d7ae"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.armv7l-linux-gnueabihf.tar.gz"
 [[libcrossterm]]
 arch = "i686"
-git-tree-sha1 = "16e944505591a744244dc4e9831bf04da84fef24"
+git-tree-sha1 = "c9057ad3175242f30f59b18c0652f05e5f99a8bb"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "5b5abad74a1f465a3a0e8080823332e151464f378b45095b5e9f0703ff533668"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.i686-linux-gnu.tar.gz"
+    sha256 = "790354c1826181921fc15a56864f3a785987b7448410340f0ef2b61f2204d900"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.i686-linux-gnu.tar.gz"
 [[libcrossterm]]
 arch = "powerpc64le"
-git-tree-sha1 = "ce6d3c10eb0252b3abd2debe292824328026b811"
+git-tree-sha1 = "22ee247d9e50a0b3e0206848d821a1b8b0374195"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "f4f925e40aae23d0a5160d7828410feada00c8ee75b392837b75901d6af38c45"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7a709bad197d790cbc6b44061aa5b5151cefa97e27d7226accba11b73f55b23c"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.powerpc64le-linux-gnu.tar.gz"
 [[libcrossterm]]
 arch = "x86_64"
-git-tree-sha1 = "9c01b95f5b776d9a6ecf6d60a34db649a4bb8e4b"
+git-tree-sha1 = "3fb52cf25f08ad1ef1ad9c255d6eef4e454b8381"
 os = "macos"
 
     [[libcrossterm.download]]
-    sha256 = "908ef44c1666a26a17f545c93f43c071334d62c639283741085ac37e5cae4ac5"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "825859a9c41f272f97316f2b686d135bfb5d2b2b9aacb0122114050fc189ce07"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.x86_64-apple-darwin.tar.gz"
 [[libcrossterm]]
 arch = "x86_64"
-git-tree-sha1 = "505f0a7521ae59fa16138963ca6be8ffbb8b7b4d"
+git-tree-sha1 = "bc1a2df6b198ee519a1148845674b20eb1c13600"
 libc = "glibc"
 os = "linux"
 
     [[libcrossterm.download]]
-    sha256 = "15034bd88a30705e822544ecdfb6ef657771934bcb7425a82a2b20f999a488fb"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "79dbb8c15958d0aac9a9f63a0417465f0de17852ce60f5a5775064ab7eab74e5"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.x86_64-linux-gnu.tar.gz"
 [[libcrossterm]]
 arch = "x86_64"
-git-tree-sha1 = "2058e3632c8ba2276a3847e956c9210981f937c7"
+git-tree-sha1 = "5d577ed77eb4eaf15449ad105fc7e31a8fb39743"
 os = "freebsd"
 
     [[libcrossterm.download]]
-    sha256 = "850e90580a6f432ccf4648ca92aa45f0dc8b3bb25efe1a959510d6969aeae776"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "06d9a25e047c479938d83252d59721120c4780a5fd4d9f62795a394690a27201"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.x86_64-unknown-freebsd.tar.gz"
 [[libcrossterm]]
 arch = "x86_64"
-git-tree-sha1 = "1f180494feac8968751ae03c009350eb1152ed0a"
+git-tree-sha1 = "67918d76ef2f4eee3fcd0e64ce6bacc169c0ebd0"
 os = "windows"
 
     [[libcrossterm.download]]
-    sha256 = "14d04bb1f4f54e5454d796da2f1f4cc03c7f4e47303aef6bcb2680b166140534"
-    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.6.4+0/libcrossterm.v0.6.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "da28e90fdd5f35fef82a86b32b01e2ae443fa709e093513c09427ba3cb5f92ca"
+    url = "https://github.com/JuliaBinaryWrappers/libcrossterm_jll.jl/releases/download/libcrossterm-v0.7.2+0/libcrossterm.v0.7.2.x86_64-w64-mingw32.tar.gz"
